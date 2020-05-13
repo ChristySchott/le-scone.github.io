@@ -14,7 +14,7 @@
 
 ## 💻 Projeto
 
-Esse projeto foi desenvolvido no curso CSS com Sass, logo o foco foi a utilização do pré-processador Sass. 
+Esse projeto foi desenvolvido no curso CSS com Sass, logo o foco foi a utilização do pré-processador Sass. O projeto simula um problema real, um restaurante que deseja criar um site para divulgar seu estabelecimento e mostrar um pouco de seu cardápio.
 
 
 ## 🎨 Layout
