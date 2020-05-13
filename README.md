@@ -22,8 +22,8 @@ Esse projeto foi desenvolvido no curso CSS com Sass, logo o foco foi a utilizaç
 Layout: 
 
 ![Layout do projeto](https://github.com/ChristySchott/le-scone.github.io/blob/master/layout/layout1.PNG)
+![Layout do projeto](https://github.com/ChristySchott/le-scone.github.io/blob/master/layout/layout2.PNG)
 ![Layout do projeto](https://github.com/ChristySchott/le-scone.github.io/blob/master/layout/layout3.PNG)
-![Layout do projeto](https://github.com/ChristySchott/le-scone.github.io/blob/master/layout/layout4.PNG)
 
 
 ### Aprendizados:
